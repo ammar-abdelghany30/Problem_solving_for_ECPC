@@ -2,10 +2,10 @@
 using namespace std;
 
 int main() {
-    int n;
+    long long n;
     cin >> n;
 
-    int result;
+    long long result;
     if (n % 2 == 0) {
         // For even n: n/2
         result = n/2;
