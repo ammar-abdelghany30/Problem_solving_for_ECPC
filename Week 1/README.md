@@ -1,2 +1,2 @@
 # Problem_solving_for_ECPC
-Problems solution preparing to ECPC contest from their sheets and another sources 
+Problems from Week 1 , level 1 (Data types and Conditions)
