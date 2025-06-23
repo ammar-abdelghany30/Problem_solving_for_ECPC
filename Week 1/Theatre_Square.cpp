@@ -21,7 +21,6 @@ int main() {
     cout<<total_palata<<endl;
 
 
-
     return 0;
 
 }
