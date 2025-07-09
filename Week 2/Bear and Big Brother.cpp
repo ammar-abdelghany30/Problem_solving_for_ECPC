@@ -11,7 +11,7 @@ int main()
     {
         years++;
         limak_weight *= 3;
-        bob_weight *= 2;
+        bob_weight*=2;
 
         //years++;
     }
